@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/home.css">
   </head>
-  <body>
+  <body onload="InitLive2D()">
     <label class="navi-button">MENU</label>
     <input type="text" class="search-input" placeholder="回车搜索">
     <img src="images/search.svg" class="search">
@@ -40,7 +40,10 @@
       <div id='icon' style="display: flex;justify-content: center;padding: 0;align-items: center"></div>
       <div id="footer" style="text-align: center;background: #2c3e50;padding-top: 30px;color: white"></div>
     </div>
+    <canvas class="live2d hidden-xs hidden-sm" id="live2d" width="220" height="200"></canvas>
   </body>
   <script src = "js/jquery.min.js"></script>
   <script src="js/gitblog.js"></script>
+  <script src = "js/LAppDefine.js"></script>
+  <script src = "js/live2d.min.js"></script>
 </html>
