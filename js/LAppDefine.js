@@ -52,7 +52,7 @@ var LAppDefine = {
      */
     MODELS:
     [
-        ["model/22/index.json"]
+        ["model/33/index.json"]
     ],
 
     // 与外部定义的json文件匹配
