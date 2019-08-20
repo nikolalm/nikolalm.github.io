@@ -52,7 +52,7 @@ var LAppDefine = {
         这里请用相对路径配置
      */
     MODELS: [
-        ["model/33/index.json"],
+        ["model/33/index.json"]
     ],
 
     // 与外部定义的json文件匹配
