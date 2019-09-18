@@ -1,5 +1,5 @@
 var gitblog = function(config) {
-    var self = this;
+    var self = this;//
 
     self.getUrlParam = function(name) {
         var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
