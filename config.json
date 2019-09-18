@@ -13,12 +13,20 @@
         "nikolalm" : "https://nikolalm.github.io"
     },
     "icons": {
-
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "https://github.com/nikolalm.github.io",
+            "hidden_img" : null,
+            "width" : 0
+        },
         "QQ": {
             "icon_src": "images/QQ.svg",
             "href": "tencent://message/?uin=1137705668",
+            "hidden_img" : null,
             "width": 0
         }
 
         }
 }
+
+
