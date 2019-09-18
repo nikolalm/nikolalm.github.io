@@ -23,6 +23,7 @@
         "QQ" : {
             "icon_src": "images/QQ.svg",
             "href": "tencent://message/?uin=1137705668",
+            "hidden_img" : null,
             "width": 0
         }
 
