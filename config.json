@@ -20,12 +20,11 @@
             "width" : 0
         }
 
-        "QQ": {
+        "QQ" : {
             "icon_src": "images/QQ.svg",
             "href": "tencent://message/?uin=1137705668",
             "width": 0
         }
 
         }
-    }
 }
